@@ -1,1 +1,1 @@
-# qa_guru_7_7
+# QA guru 7. Homework to lesson 7
